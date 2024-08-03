@@ -1,5 +1,15 @@
 # 🎲 Dice Roll Simulation
 
+#3 Table of Contents 📚
+- [Overview](#overview-)
+- [Features](#features-)
+- [Prerequisites](#prerequisites-)
+- [File Structure](#file-structure-)
+- [How to Use](#how-to-use-)
+- [Code Explanation](#code-explanation-)
+- [Main Components](#main-components-)
+- [Troubleshooting](#troubleshooting-)
+
 ## Overview 📜
 This is a simple GUI application that simulates rolling two dice using Python's <code>tkinter</code> library for the graphical interface and the <code>PIL</code> library for image handling. The application displays two dice images and allows users to roll the dice by clicking a button.<br>
 
