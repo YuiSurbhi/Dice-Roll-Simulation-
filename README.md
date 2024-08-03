@@ -3,7 +3,7 @@
 ## Overview 📜
 This is a simple GUI application that simulates rolling two dice using Python's <code>tkinter</code> library for the graphical interface and the <code>PIL</code> library for image handling. The application displays two dice images and allows users to roll the dice by clicking a button.<br>
 
-## Features
+## Features 📄
 
 ◻️ Displays two dice images on the window.<br>
 ◻️ Updates the dice images randomly each time the "ROLL" button is clicked.<br>
