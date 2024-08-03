@@ -15,6 +15,7 @@ To run this application, you need to have Python installed along with the follow
 
 ◻️ *'tkinter'* (comes pre-installed with Python)<br>
 ◻️ *'Pillow'* (Python Imaging Library, for handling images)<br>
+
 You can install the required libraries using pip:
 
       pip install pillow 
