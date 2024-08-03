@@ -22,14 +22,14 @@ You can install the required libraries using pip:
 
 ## File Structure 📂
 
-◻️ *'dice_roll.py':* The main Python script that contains the application code.<br>
+◻️ *'main.py':* The main Python script that contains the application code.<br>
 ◻️ *'dice1.png', 'dice2.png', 'dice3.png', 'dice4.png', 'dice5.png', 'dice6.png':* Image files for dice faces (place these images in the specified directory).<br>
 
 ## How to Use 🛠️
 
-1. **Download or Clone the Repository:** If you haven't already, download or clone the repository containing the dice_roll.py script and dice image files.<br>
+1. **Download or Clone the Repository:** If you haven't already, download or clone the repository containing the *'main.py'* script and dice image files.<br>
 
-2. **Update Image Paths:** Ensure the paths to the dice images in the script (dice_roll.py) are correct. Replace C:/Users/HP/Pictures/ with the path where you have stored the dice image files.<br>
+2. **Update Image Paths:** Ensure the paths to the dice images in the script *('main.py')* are correct. Replace *'C:/Users/HP/Pictures/'* with the path where you have stored the dice image files.<br>
 
 3. Run the Application:<br>
 
@@ -50,14 +50,18 @@ You can install the required libraries using pip:
 ◻️ *'Pillow':* Used for opening and displaying dice images.<br>
 ◻️ *'random':* Used to randomly select a dice image when rolling.<br>
 
-## Main Components
+## Main Components ⚙️
 
-◻️ **Window Creation:** Initializes the main application window.<br>
+◻️ **Window Creation:** Initializes the main application window with a size of 500x360 pixels and the title "Dice Roll".<br>
 ◻️ **Image Handling:** Loads and displays dice images.<br>
 ◻️ **Dice Roll Function:** Updates the dice images with random selections.<br>
-◻️ **Button:** Allows the user to roll the dice by clicking.<br>
+◻️ **Button:** Allows the user to roll the dice by clicking the "ROLL" button.<br>
 
-## ⚠️ Troubleshooting
+## Troubleshooting ⚠️
 
 ◻️ **Images Not Displaying:** Ensure the image file paths are correct and that the files exist in the specified location.<br>
 ◻️ **Library Errors:** Make sure all required libraries are installed. Run <code>pip install pillow</code> to install the Pillow library.<br>
+
+---
+
+This README file provides a comprehensive overview of your dice roll simulation application, making it easy for users to understand, install, and use the software.
