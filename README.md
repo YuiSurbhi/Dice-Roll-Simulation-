@@ -37,22 +37,22 @@ You can install the required libraries using pip:
 
 ## How to Use 🛠️
 
-1. **Download or Clone the Repository:** If you haven't already, download or clone the repository containing the *'main.py'* script and dice image files.<br>
+◻️ **Download or Clone the Repository:** If you haven't already, download or clone the repository containing the *'main.py'* script and dice image files.<br>
 
-2. **Update Image Paths:** Ensure the paths to the dice images in the script *('main.py')* are correct. Replace *'C:/Users/HP/Pictures/'* with the path where you have stored the dice image files.<br>
+◻️ **Update Image Paths:** Ensure the paths to the dice images in the script *('main.py')* are correct. Replace *'C:/Users/HP/Pictures/'* with the path where you have stored the dice image files.<br>
 
-3. Run the Application:<br>
+◻️ Run the Application:<br>
 
-◻️ Open a terminal or command prompt.<br>
-◻️ Navigate to the directory containing the *'main.py'* file.<br>
-◻️ Execute the script using Python:<br>
+1. Open a terminal or command prompt.<br>
+2. Navigate to the directory containing the *'main.py'* file.<br>
+3. Execute the script using Python:<br>
 
-      python main.py
+       python main.py
 
-4. Interact with the Application:<br>
+◻️ Interact with the Application:<br>
 
-◻️ A window will open displaying two dice images and a "ROLL" button.<br>
-◻️ Click the "ROLL" button to randomly change the dice images.<br>
+1. A window will open displaying two dice images and a "ROLL" button.<br>
+2. Click the "ROLL" button to randomly change the dice images.<br>
 
 ## Code Explanation 🧩
 
