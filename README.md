@@ -56,9 +56,9 @@ You can install the required libraries using pip:
 
 ## Code Explanation 🧩
 
-◻️ *'tkinter':* Used for creating the GUI window and placing widgets.<br>
-◻️ *'Pillow':* Used for opening and displaying dice images.<br>
-◻️ *'random':* Used to randomly select a dice image when rolling.<br>
+◻️ ***'tkinter':*** Used for creating the GUI window and placing widgets.<br>
+◻️ ***'Pillow':*** Used for opening and displaying dice images.<br>
+◻️ ***'random':*** Used to randomly select a dice image when rolling.<br>
 
 ## Main Components ⚙️
 
