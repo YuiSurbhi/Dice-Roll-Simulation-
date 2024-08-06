@@ -11,6 +11,7 @@
 - [Troubleshooting](#troubleshooting-)
 
 ## Overview 📜
+
 This is a simple GUI application that simulates rolling two dice using Python's <code>tkinter</code> library for the graphical interface and the <code>PIL</code> library for image handling. The application displays two dice images and allows users to roll the dice by clicking a button.<br>
 
 ## Features 📄
@@ -41,7 +42,7 @@ You can install the required libraries using pip:
 
 ◻️ **Update Image Paths:** Ensure the paths to the dice images in the script *('main.py')* are correct. Replace *'C:/Users/HP/Pictures/'* with the path where you have stored the dice image files.<br>
 
-◻️ Run the Application:<br>
+◻️ **Run the Application:**<br>
 
 1. Open a terminal or command prompt.<br>
 2. Navigate to the directory containing the *'main.py'* file.<br>
@@ -52,6 +53,7 @@ You can install the required libraries using pip:
 ◻️ Interact with the Application:<br>
 
 1. A window will open displaying two dice images and a "ROLL" button.<br>
+
 2. Click the "ROLL" button to randomly change the dice images.<br>
 
 ## Code Explanation 🧩
