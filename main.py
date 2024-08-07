@@ -7,7 +7,7 @@ window.geometry("500x360")
 window.config(pady=30)
 window.title("Dice Roll")
 
-dice = ["dice-six-faces-one.png","dice-six-faces-two.png","dice-six-faces-three.png","dice-six-faces-four.png","dice-six-faces-five.png","dice-six-faces-six.png"]
+dice = ["assets/dice-six-faces-one.png","assets/dice-six-faces-two.png","assets/dice-six-faces-three.png","assets/dice-six-faces-four.png","assets/dice-six-faces-five.png","assets/dice-six-faces-six.png"]
 image1 = ImageTk.PhotoImage(Image.open(random.choice(dice)))
 image2 = ImageTk.PhotoImage(Image.open(random.choice(dice)))
 
