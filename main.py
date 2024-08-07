@@ -5,7 +5,7 @@ import random
 # Create the main window 
 window = tk.Tk()
 window.geometry("500x360")
-window.title("Dice Roll")
+window.title("My Two Dice Rollers")
 
 # List of file path for dice images 
 dice = ["C:/Users/HP/Pictures/dice1.png","C:/Users/HP/Pictures/dice2.png","C:/Users/HP/Pictures/dice3.png","C:/Users/HP/Pictures/dice4.png","C:/Users/HP/Pictures/dice5.png","C:/Users/HP/Pictures/dice6.png"]
