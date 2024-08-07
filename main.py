@@ -8,7 +8,7 @@ window.geometry("500x360")
 window.title("Dice Roll")
 
 # List of file path for dice images 
-dice = ["C:/Users/HP/Pictures/dice1.png","C:/Users/HP/Pictures/dice2.png","C:/Users/HP/Pictures/dice3.png","C:/Users/HP/Pictures/dice4.png","C:/Users/HP/Pictures/dice5.png","C:/Users/HP/Pictures/dice6.png"]
+dice = ["Assets/dice1.png","Assets/dice2.png","Assets/dice3.png","Assets/dice4.png","Assets/dice5.png","Assets/dice6.png"]
 
 # Loading the initial images for dice 
 image1 = ImageTk.PhotoImage(Image.open(random.choice(dice)))
